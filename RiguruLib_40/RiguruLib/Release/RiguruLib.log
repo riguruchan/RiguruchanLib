@@ -1,0 +1,114 @@
+﻿2015/11/09 14:45:17 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\riguruchan\Desktop\DirectX\Solution\RiguruLib_40\RiguruLib\RiguruLib\RiguruLib.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Ox /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Src\main.cpp
+         main.cpp
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50002) : 'DXGI_STATUS_OCCLUDED' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50011) : 'DXGI_STATUS_CLIPPED' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50020) : 'DXGI_STATUS_NO_REDIRECTION' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50029) : 'DXGI_STATUS_NO_DESKTOP_ACCESS' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50038) : 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50047) : 'DXGI_STATUS_MODE_CHANGED' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50056) : 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50071) : 'DXGI_ERROR_INVALID_CALL' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50080) : 'DXGI_ERROR_NOT_FOUND' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50089) : 'DXGI_ERROR_MORE_DATA' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50098) : 'DXGI_ERROR_UNSUPPORTED' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50107) : 'DXGI_ERROR_DEVICE_REMOVED' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50116) : 'DXGI_ERROR_DEVICE_HUNG' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50126) : 'DXGI_ERROR_DEVICE_RESET' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50135) : 'DXGI_ERROR_WAS_STILL_DRAWING' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50145) : 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50154) : 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50164) : 'DXGI_ERROR_DRIVER_INTERNAL_ERROR' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50173) : 'DXGI_ERROR_NONEXCLUSIVE' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50182) : 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50192) : 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50201) : 'DXGI_ERROR_REMOTE_OUTOFMEMORY' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50379) : 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50388) : 'D3D11_ERROR_FILE_NOT_FOUND' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50398) : 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50407) : 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50355) : 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' の前の定義を確認してください
+     1>c:\users\riguruchan\desktop\directx\solution\rigurulib_40\rigurulib\directx\inc\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND' : マクロが再定義されました。
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(50364) : 'D3D10_ERROR_FILE_NOT_FOUND' の前の定義を確認してください
+         C:\Users\riguruchan\Desktop\DirectX\Solution\RiguruLib_40\RiguruLib\DirectX\Inc\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\riguruchan\Desktop\DirectX\Solution\RiguruLib_40\RiguruLib\Release\RiguruLib.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\riguruchan\Desktop\DirectX\Solution\RiguruLib_40\RiguruLib\Release\RiguruLib.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\riguruchan\Desktop\DirectX\Solution\RiguruLib_40\RiguruLib\Release\RiguruLib.lib" /MACHINE:X86 /SAFESEH Release\Actor.obj
+         Release\ActorManager.obj
+         Release\Camera.obj
+         Release\Collision.obj
+         Release\Thread.obj
+         Release\Player.obj
+         Release\Stage.obj
+         Release\UI.obj
+         Release\Audio.obj
+         Release\Sound.obj
+         Release\Animation.obj
+         Release\AnimUser.obj
+         Release\RgrALoader.obj
+         Release\Graphic.obj
+         Release\Mesh.obj
+         Release\MeshUser.obj
+         Release\OctreeLoader.obj
+         Release\OctreeUser.obj
+         Release\RgrLoader.obj
+         Release\LoadTexture.obj
+         Release\Shader.obj
+         Release\Line.obj
+         Release\Font.obj
+         Release\Texture.obj
+         Release\Input.obj
+         Release\KeyBoard.obj
+         Release\Mouse.obj
+         Release\main.obj
+         Release\Converter.obj
+         Release\MathUtility.obj
+         Release\Matrix4.obj
+         Release\MatrixUtility.obj
+         Release\Quaternion.obj
+         Release\Vector2.obj
+         Release\Vector2Utility.obj
+         Release\Vector3.obj
+         Release\Vector3Utility.obj
+         Release\D3D11User.obj
+         Release\GamePlayScene.obj
+         Release\SceneManager.obj
+         Release\TitleScene.obj
+         Release\World.obj
+         Release\WorldActor.obj
+         コード生成しています。
+         コード生成が終了しました。
+         RiguruLib.vcxproj -> C:\Users\riguruchan\Desktop\DirectX\Solution\RiguruLib_40\RiguruLib\Release\RiguruLib.exe
+     1>プロジェクト "C:\Users\riguruchan\Desktop\DirectX\Solution\RiguruLib_40\RiguruLib\RiguruLib\RiguruLib.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:09.14
